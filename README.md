@@ -1,4 +1,5 @@
 LINK:        https://github.com/ISAQUE25-INFORMATICA/Jogo-de-Dados
+
 Requisitos Funcionais: 
 
     1. O sistema deverá permitir a criação, descrição, alteração e exclusão de usuários.
