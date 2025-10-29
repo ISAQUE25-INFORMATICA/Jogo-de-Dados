@@ -20,17 +20,17 @@ Requisitos Não Funcionais:
 
 Regras de Negócio:
        
-    5. O e-mail e a senha de um usuário não podem estar em branco.
-    6. Os e-mails devem ser únicos.
-    7. Os usuários que se cadastraram em um gamble podem desistir antes que o jogo inicie.
-    8. Uma bet deve possuir um único usuário criador dela.
-    9. O nome da bet deve ser único para evitar plágio.
-    10. Uma gamble deve conter no mínimo 2 jogadores para inicializar a aposta.
-    11. Uma bet deve comandar um máximo de gambles.
-    12. Um usuário pode participar de várias gambles.
-    13. Uma bet pode obter até um máximo de usuários partiipantes.
-    14. O valor apostado de cada usuário em um gamble não pode ser negativo.
-    15. O palpite dos valores dos dados de cada usuário em um gamble deve ser maior que 1 e menor que 13. 
+    1. O e-mail e a senha de um usuário não podem estar em branco.
+    2. Os e-mails devem ser únicos.
+    3. Os usuários que se cadastraram em um gamble podem desistir antes que o jogo inicie.
+    4. Uma bet deve possuir um único usuário criador dela.
+    5. O nome da bet deve ser único para evitar plágio.
+    6. Uma gamble deve conter no mínimo 2 jogadores para inicializar a aposta.
+    7. Uma bet deve comandar um máximo de gambles.
+    8. Um usuário pode participar de várias gambles.
+    9. Uma bet pode obter até um máximo de usuários partiipantes.
+    10. O valor apostado de cada usuário em um gamble não pode ser negativo.
+    11. O palpite dos valores dos dados de cada usuário em um gamble deve ser maior que 1 e menor que 13. 
     
 Diagrama de Classes:
 
